@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm JustDoom
+
+<img src="https://profile-counter.glitch.me/justdoom/count.svg"> people have viewed this page
 
 <!--
 **JustDoom/JustDoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
